@@ -2,6 +2,7 @@
 
 # Projet de Démo graphique en utilisant GL4Dummies et SDL2
 
+[![Watch the video preview](./assets/Screencast from 05-29-2023 08:05:03 PM.webm)]
 
 ### Installation
 
